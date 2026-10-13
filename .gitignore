@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter / VS Code interactive
+.ipynb_checkpoints/
+.vscode/
+
+# 업로드하지 않는 실험용 파일
+test.py
+
+# OS
+.DS_Store
+Thumbs.db

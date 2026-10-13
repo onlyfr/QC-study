@@ -1,0 +1,5 @@
+qiskit>=1.4        # QFTGate 사용 (1.4+)
+qiskit-aer
+numpy
+matplotlib         # circuit.draw(output="mpl"), plot_histogram
+pylatexenc         # circuit.draw(output="mpl")에 필요
